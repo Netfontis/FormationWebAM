@@ -13,7 +13,7 @@
 			<img id="slide-1" src="./templates/assets/img/1.jpg" />
 			<img id="slide-1" src="./templates/assets/img/2.jpeg" />
 			<img id="slide-2" src="./templates/assets/img/3.jpeg" />
-			<img id="slide-3" src="./templates/assets/img/4.jpeg	" />
+			<img id="slide-3" src="./templates/assets/img/4.jpeg" />
 		</div>
 		<div class="slider-nav">
 			<a href="#slide-1"></a>
